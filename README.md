@@ -33,8 +33,8 @@ A professional-grade, deep-learning based diagnostic laboratory for **Multi-Labe
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd "ALP Project"
+   git clone https://github.com/Vamsikrishna-post/Retinal-AI-Lesion-Detector
+   cd "Retinal-AI-Lesion-Detector"
    ```
 
 2. **Install dependencies**:
